@@ -12,7 +12,7 @@ Jiangxin He's Part: From folder "2020_01_06" to folder "2020_02_07".
 
 3. Date of Image column: data is now printed according to folders' name.
 
-4. Pixels per unit data after folder "2021_01_16" will be calculated by Microsoft Excel through function. Only pixel count data will be manually copied to Microsoft Excel sheet.
+4. Pixels per unit data after folder "2021_01_16" will be calculated by Microsoft Excel. Only pixel count data will be manually copied to Microsoft Excel sheet.
 
 ## Error Correction
 
